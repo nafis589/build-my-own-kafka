@@ -1,4 +1,4 @@
-# Building Your Own Kafka-like System From Scratch
+# Building my Own Kafka-like System From Scratch
 
 
 ## Testing the System
