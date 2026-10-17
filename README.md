@@ -1,4 +1,4 @@
-# Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide
+# Building Your Own Kafka-like System From Scratch
 
 
 ## Testing the System
